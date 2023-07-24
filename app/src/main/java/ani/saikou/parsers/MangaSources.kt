@@ -20,6 +20,10 @@ object MangaSources : MangaReadSources() {
         "MangaRead" to ::MangaRead,
         "ComickFun" to ::ComickFun,
         "ColoredManga" to ::ColoredManga,
+        "Kiryuu" to ::Kiryuu,
+        "KomikCast" to ::KomikCast
+        "Komiku" to ::Komiku
+        "WestManga" to ::Westmanga,
     )
 }
 

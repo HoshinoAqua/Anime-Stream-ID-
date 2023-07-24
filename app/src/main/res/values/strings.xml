@@ -507,51 +507,45 @@
     <string name="no_description_available">"Deskripsi tidak tersedia"</string>
 
     <string-array name="manga_directions">
-        <item>Top to Bottom</item>
-        <item>Right to Left</item>
-        <item>Bottom to Top</item>
-        <item>Left to Right</item>
+        <item>Atas ke bawah</item>
+        <item>kanan ke Kiri</item>
+        <item>bawah ke Atas</item>
+        <item>Kiri ke Kanan</item>
     </string-array>
 
     <string-array name="manga_layouts">
-        <item>Paged</item>
-        <item>Continuous Paged</item>
-        <item>Continuous</item>
+        <item>Halaman</item>
+        <item>Halaman Berkelanjutan</item>
+        <item>Berkelanjutan</item>
     </string-array>
 
-    <string name="selected">Selected</string>
-    <string name="found">Found</string>
+    <string name="selected">Terpilih</string>
+    <string name="found">Ditemukan</string>
 
-    <string name="age">"__Age:__ "</string>
-    <string name="birthday">\n"__Birthday:__ "</string>
-    <string name="gender">\n"__Gender:__ "</string>"
+    <string name="age">"__Usia:__ "</string>
+    <string name="birthday">\n"__Hari ulang tahun:__ "</string>
+    <string name="gender">\n"__Jenis Kelamin:__ "</string>"
 
-    <string name="male">Male</string>
-    <string name="female">Female</string>
+    <string name="male">Laki-Laki</string>
+    <string name="female">Perempuan</string>
 
-    <string name="question_1">What is Saikou?\n Why should you use Saikou?</string>
-    <string name="answer_1">Saikou is crafted based on simplistic yet state-of-the-art elegance. It is an Anilist only client, which also lets you stream-download Anime &amp; Manga. We plan on adding MyAnimeList support very soon.\nSaikou (最高; Sai-kō) literally means the best in Japanese. Well, we would like to say this is the best open source app for anime and manga on Android, but hey, Try it out yourself &amp; judge!</string>
+    <string name="question_1">Apa itu Anime Stream?\nMengapa Anda harus menggunakan Anime Stream??</string>
+    <string name="answer_1">Anime Stream dibuat berdasarkan keanggunan yang sederhana namun canggih. Ini adalah satu-satunya klien Anilist, yang juga memungkinkan Anda streaming-unduh Anime &amp; Manga. Kami berencana untuk segera menambahkan dukungan MyAnimeList.\nYah, kami ingin mengatakan ini adalah aplikasi sumber terbuka terbaik untuk anime dan manga di Android, tapi hei, Cobalah sendiri!</string>
 
-    <string name="question_2">What are some features of Saikou?</string>
-    <string name="answer_2">Some mentionable features of Saikou are\n\n- Easy and functional way to both, watch anime and read manga and light novels, Ad Free.\n- A completely open source app with a nice UI &amp; Animations\n- The most Efficient scraping for anime and manga from multiple sources. (Spoiler Alert : No web-views were harmed)\n- Synchronize anime and manga real-time with AniList. Easily categorize anime and manga based on your current status. (Powered by AniList)\n- Find all shows using thoroughly and frequently updated list of all trending, popular and ongoing anime based on scores.\n- View extensive details about anime shows, movies and manga titles. It also features ability to countdown to the next episode of airing anime. (Powered by AniList &amp; MyAnimeList)</string>
+    <string name="question_2">Apa saja fitur Anime Stream?</string>
+    <string name="answer_2">Beberapa fitur Saikou yang dapat disebutkan adalah\n\n- Cara yang mudah dan fungsional untuk keduanya, menonton anime dan membaca manga dan novel ringan, Bebas Iklan.\n- Aplikasi sumber yang sepenuhnya terbuka dengan UI &amp; Animasi\n- Pengikisan paling efisien untuk anime dan manga dari berbagai sumber. (Peringatan Spoiler: Tidak ada tampilan web yang dirugikan)\n- Sinkronkan anime dan manga secara real-time dengan AniList. Mengkategorikan anime dan manga dengan mudah berdasarkan status Anda saat ini. (Didukung oleh AniList)\n- Temukan semua acara menggunakan daftar yang menyeluruh dan sering diperbarui dari semua anime yang sedang tren, populer, dan sedang berlangsung berdasarkan skor.\n- Lihat detail ekstensif tentang acara anime, film, dan judul manga. Ini juga menampilkan kemampuan untuk menghitung mundur ke episode berikutnya dari anime yang ditayangkan. (Didukung oleh AniList &amp; MyAnimeList).<(/string)
+ 
+    <string name="question_3">Apakah Anime Stream tersedia untuk PC</string>
+    <string name="answer_3">Saat ini tidak ada (untuk Windows dan Linux). Tidak ada perkiraan kapan akan tersedia. Tetapi Anda dapat mengunduh emulator Android apa pun dan menjalankan Anime Stream di atasnya. Untuk pengguna Windows 11, mereka dapat menggunakan Windows Subsystem for Android (WSA) untuk menjalankan Saikou di Windows.</string>
 
-    <string name="question_3">What are Artifacts?</string>
-    <string name="answer_3">Whenever a developer commits or pull requests a feature or fix, GitHub automatically makes an APK file for you to use. This APK is called an Artifact. Artifacts through pull requests may or may not be added to the main release of the app. Artifacts have a higher chance of having bugs and glitches. To know if new artifacts are available, star the saikou repository and turn on notifications\n\nTo download an Artifact:\n1) Sign In/Up in GitHub\n2) Go to saikou\n3) Go to actions\n4) Press on the workflow run you want to download the artifact of.\n5) Press on artifact\n6) Extract the file using a zip extractor\n7) Install and enjoy.</string>
+    <string name="question_4">Mengapa statistik saya tidak diperbarui?</string>
+    <string name="answer_4">Ini karena diperbarui setiap 48 jam secara otomatis (oleh Anilist). Jika Anda benar-benar perlu memperbarui statistik Anda, Anda dapat memperbarui statistik Anda secara paksa setelah melakukan ini [link](https://anilist.co/settings/lists).</string>
 
-    <string name="question_4">Is Saikou available for PC?</string>
-    <string name="answer_4">Currently no (for both Windows and Linux). There isn\'t any estimation when it will be available. But you can download any Android emulator and run Saikou on it. For Windows 11 users, they can use the Windows Subsystem for Android (WSA) to run Saikou in Windows.</string>
-
-    <string name="question_5">Is Saikou available for iOS?</string>
-    <string name="answer_5">Saikou for iOS is now under development with the name "SaikouS". You can download the builds uploaded by the respective developer from our [discord server](https://discord.gg/2T7TunuwFZ). \n\nPress [here](https://github.com/5H4D0WILA/SaikouS) if you want to check out the GitHub Repository.</string>
-
-    <string name="question_6">Why are my stats not updating?</string>
-    <string name="answer_6">This is because it updates every 48 hours automatically (by Anilist). If you really need to update your stats, you can force update your stats after going to this [link](https://anilist.co/settings/lists).</string>
-
-    <string name="question_7">How to download Episodes?</string>
-    <string name="answer_7">1. Download 1DM or ADM from Google Play Store.
-        \n2. Enter the app, give storage access and set your preferences (downloading speed, downloading path etc(optional))
-        \n3. Now go to Saikou > Settings > Common > Download Managers and choose the download manager you just set up.
-        \n4. Go to your desired episode and press on the download icon of any server. There may be a popup to set your preferences again, just press on "Download" and it will be saved in the directed path.
+    <string name="question_7">Bagaimana cara download Episode?</string>
+    <string name="answer_7">1. Download 1DM atau ADM dari Google Play Store.
+        \n2. Masuk ke aplikasi, berikan akses penyimpanan dan atur preferensi Anda (kecepatan pengunduhan, jalur pengunduhan dll (opsional))
+        \n3. Sekarang buka Anime Stream > Pengaturan > Umum > Pengelola Unduhan dan pilih pengelola unduhan yang baru saja Anda atur.
+        \n4. Buka episode yang Anda inginkan dan tekan ikon unduh dari server mana pun. Mungkin ada sembulan untuk mengatur preferensi Anda lagi, cukup tekan "Unduh" dan itu akan disimpan di jalur yang diarahkan.
 
         \n\nNote: Direct downloads are also possible without a manager but it\'s not recommended.</string>
 

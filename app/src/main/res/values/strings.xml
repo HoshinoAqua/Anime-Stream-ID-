@@ -446,65 +446,65 @@
         <item>Trending</item>
         <item>A-Z</item>
         <item>Z-A</item>
-        <item>What?</item>
+        <item>Apa?</item>
     </string-array>
     <string name="main_role">MAIN</string>
     <string name="supporting_role">SUPPORTING</string>
 
-    <string name="status_finished">FINISHED</string>
-    <string name="status_releasing">RELEASING</string>
-    <string name="status_not_yet_released">NOT YET RELEASED</string>
-    <string name="status_cancelled">CANCELLED</string>
+    <string name="status_finished">SELESAI</string>
+    <string name="status_releasing">RILIS</string>
+    <string name="status_not_yet_released">BELUM DIRILIS</string>
+    <string name="status_cancelled">DIBATALKAN</string>
     <string name="status_hiatus">HIATUS</string>
 
-    <string name="type_adaptation">ADAPTATION</string>
-    <string name="type_parent">PARENT</string>
-    <string name="type_character">CHARACTER</string>
-    <string name="type_summary">SUMMARY</string>
-    <string name="type_alternative">ALTERNATIVE</string>
-    <string name="type_other">OTHER</string>
-    <string name="type_source">SOURCE</string>
-    <string name="type_contains">CONTAINS</string>
+    <string name="type_adaptation">ADAPTASI</string>
+    <string name="type_parent">INDUK</string>
+    <string name="type_character">KARAKTER</string>
+    <string name="type_summary">RINGKASAN</string>
+    <string name="type_alternative">ALTERNATIF</string>
+    <string name="type_other">LAINNYA</string>
+    <string name="type_source">SUMBER</string>
+    <string name="type_contains">MENGANDUNG</string>
 
-    <string name="read_on_saikou">Read on Saikou</string>
-    <string name="watch_on_saikou">Watch on Saikou</string>
-    <string name="continue_episode">"Continue : Episode "</string>
-    <string name="continue_chapter">"Continue : Chapter "</string>
+    <string name="read_on_saikou">Baca pada Anime Stream</string>
+    <string name="watch_on_saikou">Nonton pada Anime Stream</string>
+    <string name="continue_episode">"Melanjutkan : Episode "</string>
+    <string name="continue_chapter">"Melanjutkan : Chapter "</string>
     <string name="episode">"Episode "</string>
     <string name="episode_num">"Episode %1$s"</string>
     <string name="chapter">"Chapter "</string>
-    <string name="just_released">- just got released!</string>
-    <string name="checking_subscriptions_title">Checking Subscriptions</string>
+    <string name="just_released">- baru saja dirilis!</string>
+    <string name="checking_subscriptions_title">Memeriksa Langganan</string>
 
-    <string name="speed">Speed</string>
-    <string name="auto_update">Auto Update progress for %1$s?</string>
-    <string name="continue_from">Continue from %1$s?</string>
-    <string name="title_update_progress">Update progress on anilist?</string>
-    <string name="dont_ask_again">"Don\'t ask again for %1$s"</string>
-    <string name="default_speed">Default Speed</string>
-    <string name="default_resize_mode">Default Resize Mode</string>
-    <string name="primary_sub_color">Primary Sub Color</string>
-    <string name="outline_sub_color">Outline Sub Color</string>
-    <string name="outline_type">Outline Type</string>
+    <string name="speed">Kecepatan</string>
+    <string name="auto_update">Kemajuan Pembaruan Otomatis untuk %1$s?</string>
+    <string name="continue_from">Melanjutkan dari %1$s?</string>
+    <string name="title_update_progress">Perbarui kemajuan pada anilist?</string>
+    <string name="dont_ask_again">"Jangan tanya lagi untuk %1$s"</string>
+    <string name="default_speed">Kecepatan Default</string>
+    <string name="default_resize_mode">Mode Ubah Ukuran Default</string>
+    <string name="primary_sub_color">Sub Warna Primer</string>
+    <string name="outline_sub_color">Sub Warna Outline</string>
+    <string name="outline_type">Jenis Outline</string>
     <string name="subtitle_font">Subtitle Font</string>
 
 
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="close">Close</string>
-    <string name= "no_chapter">No Chapter</string>
-    <string name= "content_18">Turn on 18+ Content from your Anilist Settings</string>
-    <string name= "available">Available</string>
-    <string name="lets_go">Let\'s Go</string>
-    <string name="cope">Cope</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="close">Tutup</string>
+    <string name= "no_chapter">Tidak ada Chapter</string>
+    <string name= "content_18">Nyalakan Konten 18+ dari Pengaturan Anilist Anda</string>
+    <string name= "available">Tersedia</string>
+    <string name="lets_go">Ayo pergi</string>
+    <string name="cope">Mengatasi</string>
 
-    <string name="watched_num">"Watched "</string>
-    <string name="read_num">"Read "</string>
-    <string name="episodes_out_of">" out of "</string>
-    <string name="chapters_out_of">" out of "</string>
-    <string name="episodes_total_of">"Total of "</string>
-    <string name="chapters_total_of">"Total of "</string>
-    <string name="no_description_available">"No Description Available"</string>
+    <string name="watched_num">"Menonton "</string>
+    <string name="read_num">"Membaca "</string>
+    <string name="episodes_out_of">" dari "</string>
+    <string name="chapters_out_of">" dari "</string>
+    <string name="episodes_total_of">"Total dari "</string>
+    <string name="chapters_total_of">"Total dari "</string>
+    <string name="no_description_available">"Deskripsi tidak tersedia"</string>
 
     <string-array name="manga_directions">
         <item>Top to Bottom</item>

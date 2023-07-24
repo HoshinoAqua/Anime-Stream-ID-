@@ -20,7 +20,7 @@ class KuramaAnime : AnimeParser() {
 
     override val name = "KuramaAnime"
     override val saveName = "kurama"
-    override val hostUrl = "https://kuramanime.net"
+    override val hostUrl = "https://kuramanime.xyz"
     override val isDubAvailableSeparately = false
 
     override suspend fun loadEpisodes(animeLink: String, extra: Map<String, String>?): List<Episode> {

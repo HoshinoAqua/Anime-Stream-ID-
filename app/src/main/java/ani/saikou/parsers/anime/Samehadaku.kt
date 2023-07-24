@@ -15,7 +15,7 @@ class Samehadaku : AnimeParser() {
 
     override val name = "Samehadaku"
     override val saveName = "samehadaku"
-    override val hostUrl = "https://samehadaku.cc"
+    override val hostUrl = "https://samehadaku.skin"
     override val isDubAvailableSeparately = false
 
     override suspend fun loadEpisodes(animeLink: String, extra: Map<String, String>?): List<Episode> {

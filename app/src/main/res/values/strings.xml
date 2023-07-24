@@ -238,21 +238,21 @@
     <string name="watch_complete_percentage">Tonton Persentase Pembaruan</string>
     <string name="watch_complete_percentage_info">Persentase progres Anilist Anda harus diperbarui setelah menonton sebuah episode. \nIni juga mengatur \% kapan pramuat tautan untuk episode berikutnya.</string>
 
-    <string name="behaviour">Behaviour</string>
-    <string name="always_continue">Always Continue from where you left off</string>
-    <string name="pause_video_focus">Pause when not in Focus</string>
-    <string name="gestures">Volume &amp; Brightness Gestures</string>
-    <string name="double_tap">Double tap to Seek</string>
-    <string name="double_tap_info">Turning off will show fast forward &amp; rewind buttons</string>
-    <string name="seek_time">Seek Time</string>
-    <string name="seek_time_info">Amount of time in seconds for fast forward &amp; rewind.</string>
-    <string name="skip_time">Skip Time</string>
-    <string name="skip_time_info">Setting to 0, hides the Skip Button.</string>
-    <string name="show_cast_button">Show Cast Button</string>
-    <string name="show_cast_button_info">Requires \"Web Video Caster\" app to cast.</string>
+    <string name="behaviour">Perilaku</string>
+    <string name="always_continue">Selalu Lanjutkan dari tempat Anda tinggalkan</string>
+    <string name="pause_video_focus">Jeda saat tidak dalam Fokus</string>
+    <string name="gestures">Volume &amp; Gerakan Kecerahan</string>
+    <string name="double_tap">Ketuk dua kali untuk Mencari</string>
+    <string name="double_tap_info">Mematikan akan menampilkan maju cepat &amp; tombol memutar ulang</string>
+    <string name="seek_time">Carilah Waktu</string>
+    <string name="seek_time_info">Jumlah waktu dalam detik untuk maju cepat &amp; memutar ulang.</string>
+    <string name="skip_time">Waktu Skip</string>
+    <string name="skip_time_info">Mengatur ke 0, menyembunyikan Tombol Lewati.</string>
+    <string name="show_cast_button">Tampilkan Tombol Cast</string>
+    <string name="show_cast_button_info">Memerlukan \"Web Video Caster\" app to cast.</string>
     <string name="picture_in_picture">Picture in Picture</string>
-    <string name="always_minimize">Always Minimize</string>
-    <string name="always_minimize_info">Requires PiP to be enabled, makes the player behave like Youtube Player but better.\nAlso hides the PiP button.</string>
+    <string name="always_minimize">Selalu Minimize</string>
+    <string name="always_minimize_info">Membutuhkan PiP untuk diaktifkan, membuat pemain berperilaku seperti Youtube Player tetapi lebih baik.\nJuga menyembunyikan tombol PiP.</string>
 
     <string name="app">App</string>
     <string name="immersive_mode">Hide Status Bar</string>

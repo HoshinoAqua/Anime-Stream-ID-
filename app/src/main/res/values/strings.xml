@@ -255,32 +255,32 @@
     <string name="always_minimize_info">Membutuhkan PiP untuk diaktifkan, membuat pemain berperilaku seperti Youtube Player tetapi lebih baik.\nJuga menyembunyikan tombol PiP.</string>
 
     <string name="app">App</string>
-    <string name="immersive_mode">Hide Status Bar</string>
-    <string name="immersive_mode_info">Requires App restart to fully apply.</string>
-    <string name="home_layout_show">Show/Hide Layouts on Home</string>
+    <string name="immersive_mode">Sembunyikan bilah status</string>
+    <string name="immersive_mode_info">Memerlukan Aplikasi dimulai ulang untuk menerapkan sepenuhnya.</string>
+    <string name="home_layout_show">Tampilkan/Sembunyikan Tata Letak di Beranda</string>
     <string-array name="home_layouts">
-        <item>Continue Watching</item>
-        <item>Favourite Anime</item>
-        <item>Planned Anime</item>
-        <item>Continue Reading</item>
-        <item>Favourite Manga</item>
-        <item>Planned Manga</item>
-        <item>Recommended</item>
+        <item>Lanjutkan Menonton</item>
+        <item>Anime Favorit</item>
+        <item>Anime yang direncanakan</item>
+        <item>Lanjutkan Membaca</item>
+        <item>Manga Favorit</item>
+        <item>Manga yang direncanakan</item>
+        <item>Rekomendasi</item>
     </string-array>
 
-    <string name="startUpTab">Default Start Up Tab</string>
-    <string name="small_view">Small View in Trending Shows</string>
-    <string name="animations">Animations</string>
-    <string name="banner_animations">Banner Animations</string>
-    <string name="layout_animations">Layout Animations</string>
-    <string name="animation_speed">Overall Speed</string>
-    <string name="empty_fav">Looks like you don\'t like anything,\nTry liking a show to keep it here.</string>
-    <string name="fav_anime">Favourite Anime</string>
-    <string name="fav_manga">Favourite Manga</string>
-    <string name="restart_app">Restart the app?</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-    <string name="current_page">Current Page</string>
+    <string name="startUpTab">Tab Memulai Default</string>
+    <string name="small_view">Tampilan Kecil di Acara Trending</string>
+    <string name="animations">Animasi</string>
+    <string name="banner_animations">Animasi Spanduk</string>
+    <string name="layout_animations">Animasi Tata Letak</string>
+    <string name="animation_speed">Kecepatan Keseluruhan</string>
+    <string name="empty_fav">Sepertinya Anda tidak menyukai apa pun,\nCoba sukai acara untuk menyimpannya di sini.</string>
+    <string name="fav_anime">Anime Favorit</string>
+    <string name="fav_manga">Manga Favorit</string>
+    <string name="restart_app">Mulai ulang aplikasi?</string>
+    <string name="next">Berikutnya</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="current_page">Halaman saat ini</string>
     <string name="dubbed">Dubbed</string>
     <string name="subbed">Subbed</string>
     <string name="prefer_dub">Prefer Dubbed Anime</string>

@@ -14,7 +14,7 @@ class KomikCast : MangaParser() {
 
     override val name = "KomikCast"
     override val saveName = "komik_cast"
-    override val hostUrl = "https://komikcast.site"
+    override val hostUrl = "https://komikcast.io"
 
     override suspend fun loadChapters(mangaLink: String, extra: Map<String, String>?): List<MangaChapter> {
         return client.get(mangaLink).document.select("#chapter-wrapper li a").mapNotNull {

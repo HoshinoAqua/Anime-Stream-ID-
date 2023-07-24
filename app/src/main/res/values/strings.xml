@@ -567,38 +567,36 @@
         <string name="question_13">Cara memperbaiki sumber memilih judul yang salah sama sekali?</string>
     <string name="answer_13">Anime Stream sendiri tidak menghosting apa pun tetapi bergantung pada sumber lain. Saat menampilkan episode, ia memilih hasil pertama yang diberikan oleh sumber setelah mencari judulnya. Anime Stream tidak memiliki cara untuk mendeteksi apakah itu sah atau tidak. Jadi, untuk ini, kami memiliki \'Judul Salah?\' tepat di bawah nama sumber (di atas tata letak). Anda dapat memilih hasil/judul yang benar dengan menekannya dan menikmati episodenya.</string>
 
-    <string name="question_14">How to read coloured mangas?</string>
-    <string name="answer_14">Are you in search of coloured manga? Sorry to break it to you but an extremely small amount of mangas have coloured version. Those which has a coloured version is also available in Saikou. Let\'s say you want to read the coloured version of chainsaw man. Then follow the below steps ↓\n\n1) Go to Chainsaw Man\n2) Press on \'Read\'\n3) Select any working source\n4) Press on \'Wrong Title\'\n5) Select the colored version chainsaw man\n6) Enjoy\n\nNote: Many sources don\'t have the coloured version available even if it\'s available somewhere on the internet. So try a different source. If none of the sources have it, then a coloured version of your desired manga simply doesn\'t exist. If you can find it on any manga site on the internet, you can suggest that site through the Discord server.</string>
+    <string name="question_14">Cara membaca manga berwarna?</string>
+    <string name="answer_14">Apakah Anda mencari manga berwarna? Maaf untuk menyampaikannya kepada Anda tetapi sejumlah kecil manga memiliki versi berwarna. Yang memiliki versi berwarna juga tersedia di Saikou. Katakanlah Anda ingin membaca versi berwarna dari pria gergaji mesin. Kemudian ikuti langkah-langkah di bawah ini ↓\n\n1) Buka Penggergaji Pria\n2) Tekan \'Baca\'\n3) Pilih sumber yang berfungsi\n4) Tekan \'Salah Judul\'\n5) Pilih versi berwarna penggergaji mesin\n6) Nikmati\n\nCatatan: Banyak sumber tidak memiliki versi berwarna yang tersedia meskipun tersedia di suatu tempat di internet. Jadi coba sumber lain. Jika tidak ada sumber yang memilikinya, maka versi berwarna dari manga yang Anda inginkan tidak ada. Jika Anda dapat menemukannya di situs manga mana pun di internet, Anda dapat menyarankan situs tersebut melalui server Discord.</string>
+    <string name="question_15">Handshake gagal? Mengapa tidak ada stempel waktu yang tidak dimuat?</string>
+    <string name="answer_15">Anda dapat memperbaiki masalah ini dengan mengaktifkan \'Proxy\' dari \n\`Settings > Anime > Player Settings > Timestamps > Proxy\`.\nJika stempel waktu masih belum dimuat tetapi munculan gagal handshake sudah diperbaiki, maka episode yang Anda tonton belum memiliki stempel waktu untuk itu.</string>
 
-    <string name="question_15">Handshake fails? Why are no timestamps not loading?</string>
-    <string name="answer_15">You can fix this issue by enabling \'Proxy\' from \n\`Settings > Anime > Player Settings > Timestamps > Proxy\`.\nIf the timestamps are still not loading but the handshake failed popup is fixed, then the episode you are watching just doesn\'t have timestamps yet for it.</string>
+    <string name="question_16">Mengalami masalah dengan sumber?</string>
+    <string name="answer_16">Beberapa perbaikan dasar adalah :\n\n• Mulai ulang aplikasi. \n• Gunakan DNS yang berbeda dari pengaturan Anda, sebaiknya CloudFlare. \n• VPN mungkin juga berfungsi. \n\nJika Anda menolak untuk mencoba langkah-langkah di atas, maka gunakan saja sumber lain.\n\nCatatan: Allanime sering memperbaiki dirinya sendiri.</string>
 
-    <string name="question_16">Having trouble with a source?</string>
-    <string name="answer_16">Some basic fixes would be :\n\n• Restart the app. \n• Use a different DNS from your settings, preferably, CloudFlare. \n• VPN might work as well. \n\nIf you refuse to try the above steps then just use a different source.\n\nNote: Allanime fixes itself most of the time.</string>
+    <string name="question_17">Beberapa tips dan trik yang berguna</string>
+    <string name="answer_17">Berikut ini beberapa tips dan trik yang mungkin belum Anda ketahui - \n \n \n - Dengan menekan terus logo Anime Stream di pengaturan, Anda dapat memeriksa apakah ada pembaruan baru secara manual. \n \n - Tekan terus pesan kesalahan/tag/sinonim atau judul akan menyalinnya. \n \n - Anda dapat membuka episode dengan aplikasi lain dengan menahan menekan server mana saja untuk episode tersebut. Ini membantu streaming episode menggunakan pemutar video lain atau mengunduh episode menggunakan pengelola unduhan. \n \n - Anda dapat menyiapkan daftar khusus menggunakan [tautan](https://anilist.co/settings/lists) ini. (Anda harus masuk) \n \n - Jika episode/chapter Anda tidak dilanjutkan secara otomatis setelah Anda selesai menonton/membacanya, tekan dan tahan bilah status (tombol rencanakan/ulangi/tonton) anime/manga tersebut. Lain kali Anda memulai bab / menyelesaikan episode, Anda akan menemukan popup. Tekan ya di sana. </string>
 
-    <string name="question_17">Some useful tips and tricks</string>
-    <string name="answer_17">The following presents some tips and tricks you may or may not know about - \n \n \n - By hold pressing the Saikou logo in settings, you can check if there are any new updates manually. \n \n - Hold pressing an error message/tag/synonym or title will copy it. \n \n - You can open an episode with other apps by hold pressing any server for that episode. This helps in streaming the episode using other video players or download the episode using download managers. \n \n - You can set up custom lists using this [link](https://anilist.co/settings/lists). (you need to be signed in) \n \n - If your episode/chapter is not being progressed automatically after you finish watching/reading it, then hold press the status bar(planning/repeating/watching button) of that anime/manga. The next time you start a chapter/finish an episode, you will stumble upon a popup. Press yes there. </string>
-    
+    <string name="subscribed_notification">Berlangganan! Menerima pemberitahuan, saat episode baru dirilis %1$s.</string>
 
-    <string name="subscribed_notification">Subscribed! Receiving notifications, when new episodes are released on %1$s.</string>
-
-    <string name="unsubscribed_notification">Unsubscribed, you will not receive any notifications.</string>
-    <string name="episode_plural">Episodes</string>
+    <string name="unsubscribed_notification">Berhenti berlangganan, Anda tidak akan menerima pemberitahuan apa pun.</string>
+    <string name="episode_plural">Episode</string>
     <string name="episode_singular">Episode</string>
     <string name="chapter_singular">Chapter</string>
-    <string name="chapter_plural">Chapters</string>
+    <string name="chapter_plural">Chapter</string>
 
     <string name="filter_format">"Format : %1$s"</string>
     <string name="filter_sort">"Sort : %1$s"</string>
-    <string name="filter_exclude">"Not %1$s"</string>
-    <string name="search_by_image">Search by Image</string>
-    <string name="upload_image">Upload Image</string>
-    <string name="similarity_text">Similarity: %1$s %%</string>
-    <string name="time_range">From %1$s to %2$s</string>
-    <string name="invalid_url">Invalid URL</string>
-    <string name="no_anilist_id_found">No Anilist ID found</string>
-    <string name="error_loading_image">Error loading image</string>
-    <string name="discord_logout_success">Successfully Logged Out</string>
-    <string name="discord_try_again">Try logging-in again</string>
+    <string name="filter_exclude">"Tidak %1$s"</string>
+    <string name="search_by_image">Mencari berdasarkan Gambar</string>
+    <string name="upload_image">Upload Gambar</string>
+    <string name="similarity_text">Kesamaan: %1$s %%</string>
+    <string name="time_range">Dari %1$s to %2$s</string>
+    <string name="invalid_url">Tidak sah URL</string>
+    <string name="no_anilist_id_found">Tidak ada ID Anilist yang ditemukan</string>
+    <string name="error_loading_image">Terjadi kesalahan saat memuat gambar</string>
+    <string name="discord_logout_success">Berhasil Keluar</string>
+    <string name="discord_try_again">Coba masuk lagi</string>
 
 </resources>

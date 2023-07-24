@@ -541,22 +541,22 @@
     <string name="question_4">Mengapa statistik saya tidak diperbarui?</string>
     <string name="answer_4">Ini karena diperbarui setiap 48 jam secara otomatis (oleh Anilist). Jika Anda benar-benar perlu memperbarui statistik Anda, Anda dapat memperbarui statistik Anda secara paksa setelah melakukan ini [link](https://anilist.co/settings/lists).</string>
 
-    <string name="question_7">Bagaimana cara download Episode?</string>
-    <string name="answer_7">1. Download 1DM atau ADM dari Google Play Store.
+    <string name="question_5">Bagaimana cara download Episode?</string>
+    <string name="answer_5">1. Download 1DM atau ADM dari Google Play Store.
         \n2. Masuk ke aplikasi, berikan akses penyimpanan dan atur preferensi Anda (kecepatan pengunduhan, jalur pengunduhan dll (opsional))
         \n3. Sekarang buka Anime Stream > Pengaturan > Umum > Pengelola Unduhan dan pilih pengelola unduhan yang baru saja Anda atur.
         \n4. Buka episode yang Anda inginkan dan tekan ikon unduh dari server mana pun. Mungkin ada sembulan untuk mengatur preferensi Anda lagi, cukup tekan "Unduh" dan itu akan disimpan di jalur yang diarahkan.
 
-        \n\nNote: Direct downloads are also possible without a manager but it\'s not recommended.</string>
+        \n\nNote: Pengunduhan langsung juga dimungkinkan tanpa pengelola tetapi tidak disarankan.</string>
 
-    <string name="question_8">How to download Manga Chapters?</string>
-    <string name="answer_8">It is yet not possible to download chapters in Saikou but this feature will be implemented soon.</string>
+    <string name="question_6">Bagaimana cara mengunduh Chapter Manga?</string>
+    <string name="answer_6">Belum memungkinkan untuk mengunduh bab di Anime Stream tetapi fitur ini akan segera diterapkan.</string>
 
-    <string name="question_9">How to enable NSFW content?</string>
-    <string name="answer_9">You can enable nsfw content by enabling 18+ contents from this [link](https://anilist.co/settings/media).</string>
+    <string name="question_7">Cara mengaktifkan konten NSFW?</string>
+    <string name="answer_7">Anda dapat mengaktifkan konten nsfw dengan mengaktifkan konten 18+ dari ini [link](https://anilist.co/settings/media).</string>
 
-    <string name="question_10">How to import my MAL/Kitsu list to Anilist?</string>
-    <string name="answer_10">Here is how you do it,\n\nExport:\n\n1. Go to this [link](https://malscraper.azurewebsites.net).\n2. Give your Kitsu/MAL username and download both anime and manga list. (They will be in XML format)\nNote: You have to write the username of the tracker you selected\n\nImport:\n\n1. After exporting your anime and manga list from Kitsu/MAL, now go [here](https://anilist.co/settings/import) \n2. Select/drop the anime XML file on the box above.\n|→Select/drop the manga XML file on the box below.</string>
+    <string name="question_10">Bagaimana cara mengimpor daftar MAL/Kitsu saya ke Anilist?</string>
+    <string name="answer_10">Inilah cara melakukannya,\n\nEkspor:\n\n1. Pergi ke ini [link](https://malscraper.azurewebsites.net).\n2. Berikan nama pengguna Kitsu/MAL Anda dan unduh daftar anime dan manga. (They will be in XML format)\nNote: You have to write the username of the tracker you selected\n\nImport:\n\n1. After exporting your anime and manga list from Kitsu/MAL, now go [here](https://anilist.co/settings/import) \n2. Select/drop the anime XML file on the box above.\n|→Select/drop the manga XML file on the box below.</string>
 
     <string name="question_11">How to import my Anilist/Kitsu list to MAL?</string>
     <string name="answer_11">Here is how you do it,\n\nExport:\n\n1. Go to this [link](https://malscraper.azurewebsites.net/). \n2. Give your Anilist username/Kitsu ID in the \'Username/Kitsu User ID\' box. \n3. Select list type and enable \'update_on_import\'. \n4. Download the file; it will be in .xml format. Be sure to download both Anime and Manga lists.\n\nImport:\n1. To import it in your MAL account, go to this [link](https://myanimelist.net/import.php) and choose \'MyAnimeList Import\' as import type. \n2. Press on \'Choose File\'and select the downloaded anime/manga list XML file. \n3. Press on \'Import Data\'. \nCongratulations, you just imported the selected list to your MAL account.</string>

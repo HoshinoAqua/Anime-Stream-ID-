@@ -356,20 +356,20 @@
         \n- Edit Media
         \n- Hapus Media
 
-        \n\nNote: The app will not sync old Media\'s from Anilist to MAL, It\'s recommended to sync them.
+        \n\nNote: Aplikasi tidak akan menyinkronkan Media lama dari Anilist ke MAL, Disarankan untuk menyinkronkannya.
         \n- Check __FAQs__ for _Easy Method_
 
-        \n\nAnd for _Intermediates_ :
-        \n- [How to sync Anilist data with MAL](https://anilist.co/forum/thread/2654)
-        \n- [How to sync MAL data with Anilist](https://anilist.co/forum/thread/3393)
+        \n\nDan untuk _Intermediates_ :
+        \n- [Cara menyinkronkan data Anilist dengan MAL](https://anilist.co/forum/thread/2654)
+        \n- [Cara menyinkronkan data MAL dengan Anilist](https://anilist.co/forum/thread/3393)
 
-        \n\n_It is not required to sync both MAL and Anilist accounts._
+        \n\n_Tidak perlu menyinkronkan akun MAL dan Anilist._
     </string>
-    <string name="notification_for_checking_subscriptions">Show notification for Checking Subscriptions</string>
-    <string name="checking_subscriptions">Notification for Checking Subscriptions</string>
-    <string name="subscriptions_checking_time_s">Subscriptions Update Frequency : %1$s</string>
-    <string name="subscriptions_checking_time">Subscriptions Update Frequency</string>
-    <string name="subscriptions_info">Amount of time for Saikou to periodically check for new Episodes/Chapters\n(Less time will cause more battery consumption)</string>
+    <string name="notification_for_checking_subscriptions">Tampilkan pemberitahuan untuk Memeriksa Langganan</string>
+    <string name="checking_subscriptions">Pemberitahuan untuk Memeriksa Langganan</string>
+    <string name="subscriptions_checking_time_s">Frekuensi Pembaruan Langganan : %1$s</string>
+    <string name="subscriptions_checking_time">Frekuensi Pembaruan Langganan</string>
+    <string name="subscriptions_info">Jumlah waktu bagi Saikou untuk memeriksa Episode/Chapter baru secara berkala\n(Lebih sedikit waktu akan menyebabkan lebih banyak konsumsi baterai)</string>
     <string name="do_not_update">Don\'t Update</string>
     <string name="loading_next_chap">Loading Next Chapter</string>
     <string name="grid">Grid</string>

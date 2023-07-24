@@ -4,7 +4,7 @@
     <string name="preference_file_key" translatable="false">saikouprefs</string>
 
     <string name="app_name">Anime Stream</string>
-    <string name="slogan">The Best Anime & Manga app for Android.</string>
+    <string name="slogan">The Best Anime &amp; Manga app for Android.</string>
 
     <string name="login">Login</string>
     <string name="logout">Logout</string>
@@ -184,18 +184,18 @@
     </string>
     <string name="version_current">Version %1$s</string>
     <string-array name="tips">
-        <item>You can Long Click an episode/chapter to Mark it as Read.</item>
-        <item>Long Clicking Shows can directly open List Editor.</item>
-        <item>There are few more easter eggs hidden in the App.</item>
-        <item>Challenge: Go to the very bottom of the Popular Anime &amp; Manga</item>
-        <item>Try Long Clicking the Show\'s Title.</item>
-        <item>Damn, why are you wasting your Time?</item>
-        <item>You can Long Click to copy this Message.</item>
-        <item>OMG LOOK! YOU FOUND AN EASTER EGG!?</item>
-        <item>You know who else likes this Animation?</item>
-        <item>MAL support? bruh.</item>
-        <item>Novels? more like NO vels.</item>
-        <item>Long Click the logo to check for App Update</item>
+        <item>Anda dapat Klik Lama pada sebuah episode/chapter untuk Menandai sebagai Sudah Dibaca</item>
+        <item>Tekan lama Acara dapat langsung membuka Editor Daftar.</item>
+        <item>Ada beberapa telur paskah yang disembunyikan di Aplikasi.</item>
+        <item>Tantangan: Pergi ke bagian paling bawah dari Anime &amp; Manga</item>
+        <item>Coba Tekan lama Judul Acara.</item>
+        <item>Sialan, mengapa Anda membuang-buang waktu Anda?</item>
+        <item>Anda dapat Tekan lama untuk menyalin Pesan ini.</item>
+        <item>YA TUHAN LIHAT! ANDA MENEMUKAN TELUR PASKAH!?</item>
+        <item>Anda tahu siapa lagi yang suka Animasi ini?</item>
+        <item>dukungan MAL? bruh.</item>
+        <item>Novel? lebih seperti NO vels.</item>
+        <item>Tekan lama logo untuk memeriksa Pembaruan Aplikasi</item>
     </string-array>
 
     <string name="video">Video</string>

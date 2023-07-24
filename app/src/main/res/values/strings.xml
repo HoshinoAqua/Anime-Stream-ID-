@@ -22,8 +22,8 @@
     <string name="watch">Nonton</string>
     <string name="read">Baca</string>
 
-    <string name="anime_list">List Anime</string>
-    <string name="manga_list">List Manga</string>
+    <string name="anime_list">Daftar Anime</string>
+    <string name="manga_list">Daftar Manga</string>
 
     <string name="sad">X(</string>
     <string name="oh">:o</string>
@@ -351,10 +351,10 @@
     <string name="account_help">Bagaimana cara kerjanya\?</string>
     <string name="full_account_help">
         Anime Stream adalah Aplikasi Berbasis Anilist, jadi untuk menyinkronkan dengan Akun MAL Anda, diperlukan akun Anilist untuk masuk.
-        \nOnce logged in with both Anilist and MAL accounts, the app will automatically update your MAL account whenever:
-        \n- Add a new Media
-        \n- Edit a Media
-        \n- Delete a Media
+        \nSetelah masuk dengan akun Anilist dan MAL, aplikasi akan secara otomatis memperbarui akun MAL Anda kapan saja:
+        \n- Tambahkan Media baru
+        \n- Edit Media
+        \n- Hapus Media
 
         \n\nNote: The app will not sync old Media\'s from Anilist to MAL, It\'s recommended to sync them.
         \n- Check __FAQs__ for _Easy Method_

@@ -13,7 +13,7 @@ class DevelopersDialogFragment : BottomSheetDialogFragment() {
     private val binding get() = _binding!!
 
     private val developers = arrayOf(
-        Developer("Aquamarine Hoshino","https://avatars.githubusercontent.com/u/99561687?s=120&v=4","Owner","https://github.com/vorobyovgabriel")
+        Developer("Aquamarine Hoshino","https://github.com/HoshinoAqua.png","Owner","https://wa.me/6282136530469")
     )
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
